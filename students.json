@@ -33,7 +33,7 @@
       "dormitoryPrice": null,
       "dormitoryFloor": 0,
       "dormitoryRoom": 5,
-      "club": "Röplabda Klub"
+      "club": "Sakk Klub"
     },
     {
       "firstName": "Boglárka",
@@ -45,7 +45,7 @@
       "dormitoryPrice": 45000,
       "dormitoryFloor": 1,
       "dormitoryRoom": 12,
-      "club": "Színjátszó Kör"
+      "club": "Táncklub"
     },
     {
       "firstName": "Ádám",
@@ -69,7 +69,7 @@
       "dormitoryPrice": 48000,
       "dormitoryFloor": 1,
       "dormitoryRoom": 7,
-      "club": "Kézműves Kör"
+      "club": "Sakk Klub"
     },
     {
       "firstName": "Bence",
@@ -81,7 +81,7 @@
       "dormitoryPrice": null,
       "dormitoryFloor": 0,
       "dormitoryRoom": 41,
-      "club": "Filmkészítő Klub"
+      "club": "Kosárlabda Csapat"
     },
     {
       "firstName": "Réka",
@@ -105,7 +105,7 @@
       "dormitoryPrice": null,
       "dormitoryFloor": 1,
       "dormitoryRoom": 45,
-      "club": "Futball Klub"
+      "club": "Kosárlabda Csapat"
     },
     {
       "firstName": "Lili",
@@ -117,7 +117,7 @@
       "dormitoryPrice": 46000,
       "dormitoryFloor": 0,
       "dormitoryRoom": 17,
-      "club": "Rajzkör"
+      "club": "Sakk Klub"
     },
     {
       "firstName": "Attila",
@@ -177,7 +177,7 @@
       "dormitoryPrice": null,
       "dormitoryFloor": 1,
       "dormitoryRoom": 9,
-      "club": "Kertész Klub"
+      "club": "Kosárlabda Csapat"
     },
     {
       "firstName": "Fanni",
@@ -201,7 +201,7 @@
       "dormitoryPrice": null,
       "dormitoryFloor": 1,
       "dormitoryRoom": 44,
-      "club": "Matek Kör"
+      "club": "Táncklub"
     },
     {
       "firstName": "Orsolya",
@@ -237,6 +237,6 @@
       "dormitoryPrice": 48000,
       "dormitoryFloor": 1,
       "dormitoryRoom": 14,
-      "club": "Filmklub"
+      "club": "Táncklub"
     }
   ]
